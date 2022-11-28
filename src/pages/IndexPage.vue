@@ -1,6 +1,6 @@
 <template>
   <q-page class="column flex-center">
-    <q-input outlined class="q-my-md" label="senha"></q-input>
+    <q-input outlined class="full-width q-my-md" label="senha"></q-input>
     <div outlined class="q-ma-md">
       <q-btn class="q-mx-md" rounded color="blue" label="0 ou 3 "></q-btn>
       <q-btn class="q-mx-md" rounded color="blue" label="6 ou 4 "></q-btn>
