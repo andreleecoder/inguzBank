@@ -11,14 +11,45 @@
       </template>
     </q-input>
     <div outlined class="q-my-md justify-between">
-      <q-btn class="q-mx-md" rounded color="blue" label="0 ou 3 "></q-btn>
-      <q-btn class="q-mx-md" rounded color="blue" label="6 ou 4 "></q-btn>
-      <q-btn class="q-mx-md" rounded color="blue" label="1 ou 5 "></q-btn>
+      <q-btn
+        unelevated
+        class="q-mx-md"
+        rounded
+        color="blue"
+        label="0 ou 3 "
+      ></q-btn>
+      <q-btn
+        unelevated
+        class="q-mx-md"
+        rounded
+        color="blue"
+        label="6 ou 4 "
+      ></q-btn>
+      <q-btn
+        unelevated
+        class="q-mx-md"
+        rounded
+        color="blue"
+        label="1 ou 5 "
+      ></q-btn>
     </div>
     <div class="q-ma-md justify-between">
-      <q-btn class="q-mx-md" rounded color="blue" label="9 ou 7 "></q-btn>
-      <q-btn class="q-mx-md" rounded color="blue" label="2 ou 8 "></q-btn>
       <q-btn
+        unelevated
+        class="q-mx-md"
+        rounded
+        color="blue"
+        label="9 ou 7 "
+      ></q-btn>
+      <q-btn
+        unelevated
+        class="q-mx-md"
+        rounded
+        color="blue"
+        label="2 ou 8 "
+      ></q-btn>
+      <q-btn
+        unelevated
         class="q-mx-md q-px-lg q-py-sm"
         rounded
         color="blue"
@@ -26,6 +57,7 @@
       ></q-btn>
     </div>
     <q-btn
+      unelevated
       class="q-mx-md"
       rounded
       color="blue"
@@ -33,6 +65,7 @@
       style="min-width: 360px"
     ></q-btn>
     <q-btn
+      unelevated
       class="q-ma-md"
       rounded
       color="blue-2"
